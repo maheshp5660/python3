@@ -1,6 +1,6 @@
 # python3
 
-## Make a Simple a Calculaor 
+## Make a Simple a Calculator 
 
 
 ##Make a Simple Calulator 
